@@ -47,5 +47,5 @@ intern at LIKS GmbH, and I'm heading into a dual study programme in Artificial I
 
 ### Get in touch
 
-I'm open to junior roles, freelance work and interesting projects.
+I'm looking for a dual study place in AI or computer science, ideally starting in 2027.
 [berent.dev](https://berent.dev) · [LinkedIn](https://www.linkedin.com/in/neo-berent-757325397) · [Contact / book a meeting](https://berent.dev/contact)
