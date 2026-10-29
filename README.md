@@ -2,7 +2,7 @@
   <img src="assets/header.png" alt="Neo Berent: Junior Developer and System Architect from Germany" width="100%">
 </a>
 
-Hi, I'm Neo. I build things that work and actually make sense to use. Mostly Python and TypeScript, mostly
+Hi, I'm Neo. I build things that work and actually make sense to use. Mostly Python and TypeScript, some C++, mostly
 on Linux, and lately a lot of local AI. I'm finishing my Fachabitur with an IT focus, spent a year as an
 intern at LIKS GmbH, and I'm heading into a dual study programme in Artificial Intelligence next.
 
@@ -17,10 +17,10 @@ intern at LIKS GmbH, and I'm heading into a dual study programme in Artificial I
       almost everything; Claude only gets what they can't solve.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neoberent/NeoDesk"><img src="assets/neodesk.png" alt="NeoDesk"></a>
-      <br><b><a href="https://github.com/neoberent/NeoDesk">NeoDesk</a></b><br>
-      <sub>A desktop workspace in Python and CustomTkinter with role-based access, an AI chat, AES-encrypted
-      notes and a full admin panel.</sub>
+      <a href="https://github.com/neoberent/Orbit"><img src="assets/orbit.png" alt="Orbit Download Manager"></a>
+      <br><b><a href="https://github.com/neoberent/Orbit">Orbit</a></b><br>
+      <sub>A download manager for Windows and Linux in C++20 and Qt 6: multi-connection HTTP downloads with
+      resume, BitTorrent and video links, and a browser extension. <a href="https://orbitdm.netlify.app">orbitdm.netlify.app</a></sub>
     </td>
   </tr>
   <tr>
@@ -42,6 +42,7 @@ intern at LIKS GmbH, and I'm heading into a dual study programme in Artificial I
 ### What I work with
 
 **Daily:** Python · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL<br>
+**Desktop:** C++20 · Qt 6 · CMake · libcurl · libtorrent<br>
 **AI:** Ollama · Whisper · tool calling · RAG with pgvector · LLM APIs<br>
 **Setup:** CachyOS · niri · Git · systemd
 
